@@ -1,0 +1,7 @@
+1. Na str. 2 gde imam uvod u poglavlje da li je dovoljno da stavim referencu ka podnaslovu za STB i isto tako za Google API?
+
+2. Više puta u tekstu spominjem native libraries u smislu da su to biblioteke napisane u jezicima kao što su C i C++. Na internetu sam nalazila predavanja nekih profesora sa različitih fakulteta koji su kao prevod koristili nativne, a i na kursu jednom u firmi je isto taj izraz upotrebljivan. Da li je u redu ostaviti nativne biblioteke kao prevod ili postoji neki adekvatniji? 
+
+3. Nisam uspela da smislim niti nađem prevod za Foreground service iz tog razloga sam ostavila ??? da bih se konsultovala sa Vama.
+
+4. build tool-ovi da li bi mogli biti alati za bildovanje aplikacija?
